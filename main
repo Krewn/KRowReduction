@@ -34,7 +34,7 @@ int main(){top:
                     else if(1){cout<<";"<<endl;}
                     break;
                 case 2:two://write i
-                    if(i==0&&j==0){for(kj=0;kj<n;kj++){cout<<"##";}cout<<endl;}//I was at this level the first semestar I was introducted to programming 
+                    if(i==0&&j==0){for(kj=0;kj<n;kj++){cout<<"##";}cout<<endl;}
                     if(I[i][j]==-0){I[i][j]=0;}
                     cout<<I[i][j];
                     if(j<n-1){cout<<",";}
